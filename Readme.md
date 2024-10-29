@@ -1,6 +1,3 @@
-Here’s a sample README file for your P2P Tutoring Marketplace smart contract. It includes sections on the project's vision, features, future scope, and a placeholder for the contract address details.
-
----
 
 # P2P Tutoring Marketplace Smart Contract
 
@@ -63,4 +60,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Feel free to modify any section to better fit your project's specifics!
+
